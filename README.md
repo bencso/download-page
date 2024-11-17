@@ -1,7 +1,7 @@
-# MyApp's Donwload page
+# Project2024's Donwload page
 
 ## Project Overview
-MyApp is a project designed to help you download multiple applications at once and set up your computer with ease. Perfect for setting up a new computer or reinstalling Windows.
+Project2024 is a project designed to help you download multiple applications at once and set up your computer with ease. Perfect for setting up a new computer or reinstalling Windows.
 
 ## Installation
 To install the website project, follow these steps:
