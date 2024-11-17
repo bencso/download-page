@@ -1,25 +1,32 @@
-# Project2024's Donwload page
+# Download page for a new project
 
-## Project Overview
-Project2024 is a project designed to help you download multiple applications at once and set up your computer with ease. Perfect for setting up a new computer or reinstalling Windows.
+This is a download page for my new project. It is built with Next.js, motion and tailwindcss.
 
 ## Installation
-To install the website project, follow these steps:
+
+Follow these steps to get started with the project:
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/bencso/download-page.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd myapp
-    ```
-3. Install dependencies:
-    ```sh
-    npm install
-    ```
-
+   ```bash
+   git clone https://github.com/bencso/download-page.git
+   cd download-page
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 ## Usage
-To start the application, run:
-```sh
-npm run dev
+To run the development server:
+   ```bash
+   npm run dev
+   ```
+Open http://localhost:3000 with your browser to see the result
+
+## Motion
+Motion is used for animations within the project. Refer to the [Motion documentation](https://motion.dev/) for more details.
+
+## Tailwind CSS
+Tailwindcss is used for styling the project. Refer to the [Tailwind CSS documentation](https://tailwindcss.com/docs/installation) for more details.
+
+## License
+This project is released under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
