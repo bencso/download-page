@@ -2,8 +2,8 @@
 import { motion } from 'framer-motion';
 
 const containerVariants = {
-    initial: { y: -100 },
-    animate: { y: 0 },
+    initial: { opacity: 0 },
+    animate: { opacity: 1 },
     transition: { type: 'spring', stiffness: 100 }
 };
 
